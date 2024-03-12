@@ -1,2 +1,2 @@
 # OrganizationManagement
-Software Engineer Course Project
+Software Engineering Course Project
